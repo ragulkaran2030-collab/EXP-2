@@ -74,10 +74,12 @@ Tabulation for Load Test:
  |6|7|195|
 
 Model graph:Open circuit characteristics
+
 ![WhatsApp Image 2025-11-26 at 08 19 09_132c7a8d](https://github.com/user-attachments/assets/46107717-bb00-4c1e-9ba2-fc5394b43177)
 
 
 <img width="648" height="196" alt="Screenshot 2025-12-24 205954" src="https://github.com/user-attachments/assets/6f82ef9c-429c-4b34-9ad2-7c076a4c6763" />
+
 
 
 <img width="394" height="398" alt="Screenshot 2025-12-24 205550" src="https://github.com/user-attachments/assets/d3accc43-82cf-49b4-b2e0-46ea4ac8596a" />
@@ -87,6 +89,7 @@ Load Characteristics:
 
 
 <img width="646" height="207" alt="Screenshot 2025-12-24 205935" src="https://github.com/user-attachments/assets/e073e140-e5bc-4614-991c-370b6520fa93" />
+
 
 
 <img width="765" height="341" alt="Screenshot 2025-12-24 205622" src="https://github.com/user-attachments/assets/3f6efd37-e0a8-4970-b971-a42cc9ba1687" />
